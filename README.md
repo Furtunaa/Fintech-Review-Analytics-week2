@@ -1,4 +1,5 @@
 Fintech Review Analytics
+
 Project Overview
 
 This project delivers a complete data analytics workflow developed for Omega Consultancy. It focuses on analyzing customer reviews collected from the Google Play Store for three leading Ethiopian banks: Commercial Bank of Ethiopia (CBE), Bank of Abyssinia (BOA), and Dashen Bank.
