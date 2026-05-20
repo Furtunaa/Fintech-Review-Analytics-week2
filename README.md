@@ -15,6 +15,7 @@ Feature Improvement: Discovering customer-requested features like biometric auth
 Complaint Analysis: Grouping repeated complaints such as login failures or missing OTP codes to improve customer support prioritization.
 
 Project Structure
+
 fintech-review-analytics/
 ├── .github/workflows/    # CI/CD (GitHub Actions)
 ├── data/
