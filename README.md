@@ -16,22 +16,22 @@ Complaint Analysis: Grouping repeated complaints such as login failures or missi
 
 Project Structure
 fintech-review-analytics/
-├── .github/workflows/        # GitHub Actions for CI/CD
+├── .github/workflows/    # CI/CD (GitHub Actions)
 ├── data/
-│   ├── raw/                  # Raw scraped review datasets
-│   ├── plots/                # Visualization outputs
-│   └── analyzed_reviews.csv  # Processed review dataset
-├── notebooks/                # Exploratory analysis notebooks
-│   └── task4_insights.ipynb  # Visual analytics notebook
-├── scripts/                  # Helper and utility scripts
-├── src/                      # Main application source code
-│   ├── scraper.py                # Review data collection
-│   ├── preprocessing.py          # Data cleaning and preparation
-│   ├── sentiment_analysis.py     # Sentiment analysis pipeline
-│   ├── thematic_analysis.py      # Theme extraction and clustering
-├── tests/                    # Unit and validation tests
-├── requirements.txt          # Project dependencies
-├── final_report.md           # Final analytical business report
+│   ├── raw/             # Raw scraped CSV data
+│   ├── plots/           # Generated visualizations
+│   └── analyzed_reviews.csv # Final processed data
+├── notebooks/           # Research and EDA notebooks
+│   └── task4_insights.ipynb  # Task 4: Visualizations
+├── scripts/             # Utility scripts
+├── src/                 # Core source code
+│   ├── scraper.py           # Task 1: Data collection
+│   ├── preprocessing.py     # Task 1: Data cleaning
+│   ├── sentiment_analysis.py # Task 2: Sentiment scoring
+│   ├── thematic_analysis.py  # Task 2: Theme extraction
+├── tests/               # Unit and sanity tests
+├── requirements.txt      # Dependencies
+├── final_report.md       # Task 4: Final Business Report
 └── README.md
 
 Setup and Execution
