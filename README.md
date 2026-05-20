@@ -5,6 +5,7 @@ This project delivers a complete data analytics workflow developed for Omega Con
 
 ### Business Objective
 
+
 As mobile banking continues to grow rapidly in Ethiopia, customer feedback has become a valuable source of insight into service quality and user experience. When properly analyzed, these reviews provide actionable intelligence that helps banking product teams improve customer satisfaction, retention, and application performance.
 
 ### Business Scenarios
