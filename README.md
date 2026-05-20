@@ -37,11 +37,7 @@ fintech-review-analytics/
 Setup and Execution
 
 1. Environment Configuration
-# Clone the repository
-git clone https://github.com/SimretAbebe/fintech-review-analytics.git
-cd fintech-review-analytics
-
-# Install required packages
+# clone and Install required packages
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 2. Running the Data Pipeline
